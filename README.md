@@ -38,6 +38,7 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs" /><br>
 </div>
+<br/>
 <div>
     <a href="https://beacons.ai/nicolasMavroucakis">
     <img height="180em" src="https://github-redme-stats.vercel.app/api?username=nicolasMavroucakis&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
